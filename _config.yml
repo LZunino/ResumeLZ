@@ -71,9 +71,9 @@ content:
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-        Local adaptation of western Mediterranean Basin wild olive trees to climate.
-        Part of the ClimOliveMed project:
-        https://www.climolivemed.com/          
+          Local adaptation of western Mediterranean Basin wild olive trees to climate.
+          Part of the ClimOliveMed project:
+          https://www.climolivemed.com/          
       #![olive](images/olive.png)
 
   - title: Experience # Title for the section
