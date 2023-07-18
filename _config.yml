@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: PhD # Title for the section
     layout: list # Type of content section (list/text)
-    content:|
+    content:
       - layout: left
         title: Local adaptation of western Mediterranean Basin wild olive trees to climate.
         caption: 2020 to present
