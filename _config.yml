@@ -53,11 +53,14 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: PhD # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
+    content:|
+      - layout: left
         title: Local adaptation of western Mediterranean Basin wild olive trees to climate.
-        link: https://www.climolivemed.com/
-        link_text: ClimOliveMed
+        caption: 2020 to present
+        sub_title: Institut Agro Montpellier, Agap Institut Montpellier, UMR Diade Montpellier
+        link: https://www.theses.fr/s248606
+        ![olive](/images/olive.png)
+        #link_text: ClimOliveMed
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
