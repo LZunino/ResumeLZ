@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Local adaptation of western Mediterranean Basin wild olive trees to climate.
+        title: PhD student
         caption: 2020 to present
         sub_title: Institut Agro Montpellier, Agap Institut Montpellier, UMR Diade Montpellier
         link: https://www.theses.fr/s248606
@@ -64,12 +64,17 @@ content:
         #additional_links:
           #- title:  sproogen/modern-resume-theme
             #icon: fab fa-github
-         #   url: github.com/sproogen/modern-resume-theme
+            #url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          ![olive](/images/olive.png)
+        #quote: >
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+        Local adaptation of western Mediterranean Basin wild olive trees to climate.          
+        ![olive](images/olive.png)
+        Part of the ClimOliveMed project:
+        https://www.climolivemed.com/
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
