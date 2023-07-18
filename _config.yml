@@ -9,7 +9,7 @@ version: 2
 name: Lison Zunino
 title: PhD student
 email: lison.zunino.pro@gmail.com
-website: https://lzunino.github.io/ResumeOnline/
+#website: https://lzunino.github.io/ResumeOnline/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,18 +48,16 @@ orcid_username: 0000-0002-5873-0968
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name Lison, I am a PhD student working on the genomic adaptation of wild olive trees to climate. I am interrestes in population genetics, populations genomics, evolution, local adaptation and genomic offset. I am currently doing my PhD at AGAP Insitute and UMR DIADE in Montpellier, France. 
 
 content:
-  - title: Projects # Title for the section
+  - title: PhD # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: Local adaptation of western Mediterranean Basin wild olive trees to climate.
+        link: https://www.climolivemed.com/
+        link_text: ClimOliveMed
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
@@ -90,8 +88,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: PhD 
+        caption: 2020 to present
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
